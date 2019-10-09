@@ -14,4 +14,4 @@ Group Members: Alexa Spaventa and Vy
 ## Code of Conduct 
 
 ## License 
-
+     - License was already created through the open-source software licenses to make for an easier process.
