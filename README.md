@@ -26,6 +26,7 @@ average = summation/5
 To contribute fork the repository and make the edits you want and then you can send a pull request to us and we can decide whether or not to add the edits you made. 
 
 ## Code of Conduct 
+Are code of conduct is just to be polite to people or else you won't be allowed to use our code. 
 
 ## License 
      - License was already created through the open-source software licenses to make for an easier process.
